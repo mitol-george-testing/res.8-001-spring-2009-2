@@ -1,10 +1,9 @@
 leftnav:
-- identifier: 232f289f-a399-8a5a-9e87-3062f8752077
-  name: Lecture Notes
-  url: /sections/lecture-notes-contents
-  weight: 10
 - identifier: 67a3ef1f-0e3b-a873-11f9-3fb9ee2e9ecb
   name: Other Publications
-  url: /sections/other-publications
-  weight: 20
+  weight: 0
+- identifier: 232f289f-a399-8a5a-9e87-3062f8752077
+  name: Lecture Notes
+  parent: 67a3ef1f-0e3b-a873-11f9-3fb9ee2e9ecb
+  weight: 0
 title: Left Nav
