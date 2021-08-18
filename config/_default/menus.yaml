@@ -1,11 +1,15 @@
 leftnav:
 - identifier: 67a3ef1f-0e3b-a873-11f9-3fb9ee2e9ecb
   name: Other Publications
+  url: /sections/other-publications/
   weight: 0
-- identifier: 9b8808fb-5426-813a-f1c8-6240f18e75c3
-  name: preface link
-  weight: 10
 - identifier: 232f289f-a399-8a5a-9e87-3062f8752077
   name: Lecture Notes
-  weight: 20
+  url: /sections/lecture-notes-contents/
+  weight: 10
+- identifier: 9b8808fb-5426-813a-f1c8-6240f18e75c3
+  name: preface link
+  parent: 67a3ef1f-0e3b-a873-11f9-3fb9ee2e9ecb
+  url: /sections/lecture-notes-contents/preface
+  weight: 0
 title: Left Nav
