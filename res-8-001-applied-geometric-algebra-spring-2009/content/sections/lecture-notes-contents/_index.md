@@ -4,6 +4,7 @@ layout: course_section
 title: Lecture Notes
 type: page
 uid: 232f289f-a399-8a5a-9e87-3062f8752077
+xyz: abc
 ---
 The complete set of lecture notes is also 
 
