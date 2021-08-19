@@ -4,6 +4,7 @@ description: ''
 file: null
 file_location: /coursemedia/res-8-001-applied-geometric-algebra-spring-2009/6c33b47302a7df38d92ce05b525524fd_toc.pdf
 file_type: application/pdf
+filetype: application/pdf
 layout: pdf
 title: toc.pdf
 type: resource
