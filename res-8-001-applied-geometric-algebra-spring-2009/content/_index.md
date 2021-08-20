@@ -5,7 +5,7 @@ title: title added
 type: page
 uid: f346e3a7-dec4-5c4f-f79d-c5fbfee211d6
 ---
-László Tisza was [Professor of Physics Emeritus at MIT](http://web.mit.edu/newsoffice/2009/obit-tisza-0416.html), where he began teaching in 1941. This online publication is a reproduction the original lecture notes for the course "Applied Geometric Algebra" taught by Professor Tisza in the Spring of 1976.
+László Tisza was [Professor of Physics Emeritus at MIT](http://web.mit.edu/newsoffice/2009/obit-tisza-0416.html), where he began teaching in 1941. This online publication is a reproduction the original lecture notes for the course "**Applied Geometric Algebra**" taught by Professor Tisza in the Spring of 1976.
 
 {{< resource fa3d62c7-8513-1f5a-e638-4f8c37087aca >}}
 
