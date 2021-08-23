@@ -1,14 +1,10 @@
 leftnav:
-- identifier: 67a3ef1f-0e3b-a873-11f9-3fb9ee2e9ecb
-  name: Other Publications
-  url: res-8-001-applied-geometric-algebra-spring-2009/content/sections/other-publications/_index.md
-  weight: 0
-- identifier: 9b8808fb-5426-813a-f1c8-6240f18e75c3
-  name: preface link
-  url: res-8-001-applied-geometric-algebra-spring-2009/content/sections/lecture-notes-contents/preface.md
-  weight: 10
 - identifier: 232f289f-a399-8a5a-9e87-3062f8752077
   name: Lecture Notes
-  url: res-8-001-applied-geometric-algebra-spring-2009/content/sections/lecture-notes-contents/_index.md
+  url: /sections/lecture-notes-contents/
+  weight: 10
+- identifier: 67a3ef1f-0e3b-a873-11f9-3fb9ee2e9ecb
+  name: Other Publications
+  url: /sections/other-publications/
   weight: 20
 title: Left Nav

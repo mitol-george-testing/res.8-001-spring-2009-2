@@ -1,62 +1,9 @@
 {
-  "level": "",
-  "topics": [
-    [
-      "Business"
-    ],
-    [
-      "Business",
-      "Entrepreneurship",
-      null
-    ],
-    [
-      "Business",
-      "Project Management",
-      null
-    ],
-    [
-      "Energy",
-      "Climate",
-      null
-    ],
-    [
-      "Engineering",
-      "Computer Science",
-      "Computer Networks"
-    ],
-    [
-      "Fine Arts",
-      "Game Design",
-      ""
-    ],
-    [
-      "Humanities",
-      null,
-      null
-    ]
-  ],
   "instructors": {
     "content": [
-      "625c91cc-cb6f-eed0-ad56-981ef7f1ade4",
-      "84b06ab4-b3e7-63cc-f537-5507e60fa961"
+      "625c91cc-cb6f-eed0-ad56-981ef7f1ade4"
     ],
     "website": "ocw-www"
-  },
-  "course_image": {
-    "content": "",
-    "website": "res-8-001-applied-geometric-algebra-spring-2009"
-  },
-  "course_title": "AGA",
-  "course_description": "",
-  "department_numbers": [
-    "4"
-  ],
-  "course_feature_tags": [],
-  "extra_course_numbers": "",
-  "primary_course_number": "2",
-  "course_image_thumbnail": {
-    "content": "",
-    "website": "res-8-001-applied-geometric-algebra-spring-2009"
   },
   "title": "Course Metadata"
 }
