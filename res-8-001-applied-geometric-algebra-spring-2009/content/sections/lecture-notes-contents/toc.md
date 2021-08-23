@@ -4,8 +4,8 @@ description: ''
 file: null
 file_location: /coursemedia/res-8-001-applied-geometric-algebra-spring-2009/6c33b47302a7df38d92ce05b525524fd_toc.pdf
 file_type: application/pdf
-filetype: Document
 layout: pdf
+parent_uid: 232f289fa3998a5a9e873062f8752077
 title: toc.pdf
 type: resource
 uid: 6c33b473-02a7-df38-d92c-e05b525524fd
